@@ -7,3 +7,4 @@ Commit 25: Thêm ví dụ code
 Commit 26: Cập nhật ví dụ code
 Commit 27: Thêm phần kết quả
 Commit 28: Chỉnh sửa phần kết quả
+Commit 29: Thêm phần FAQ
