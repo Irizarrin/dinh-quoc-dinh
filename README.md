@@ -9,3 +9,4 @@ Commit 27: Thêm phần kết quả
 Commit 28: Chỉnh sửa phần kết quả
 Commit 29: Thêm phần FAQ
 Commit 30: Thêm câu hỏi mới
+Commit 31: Thêm câu trả lời
